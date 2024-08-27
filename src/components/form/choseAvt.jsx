@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import '../css/choseAvt.css'; // Import CSS file for styling
 
-let avtUrl = "http://localhost:3002/AvtUser"
+let avtUrl = "https://nestjs-8nvm.onrender.com/AvtUser"
 const token = localStorage.getItem('token');
 const options = {
   headers: {

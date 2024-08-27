@@ -10,7 +10,7 @@ export const Views = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('http://localhost:3002/playlist/');
+        const response = await fetch('https://nestjs-8nvm.onrender.com/playlist/');
         const data = await response.json();
         console.log('API Data:', data);
         if (Array.isArray(data)) {

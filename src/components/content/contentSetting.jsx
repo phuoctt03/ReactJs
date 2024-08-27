@@ -4,7 +4,7 @@ import axios from 'axios';
 import { delUser } from '../function/api';
 import ChoseAvt from '../form/choseAvt';
 
-const baseUserURL = 'http://localhost:3002/users'; 
+const baseUserURL = 'https://nestjs-8nvm.onrender.com/users'; 
 const token = localStorage.getItem('token');
 
 export const ContentSetting = () => {

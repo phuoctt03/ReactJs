@@ -1,6 +1,6 @@
 import axios from 'axios';
-const baseVideoURL = 'http://localhost:3002/playlist'; 
-const baseUserURL = 'http://localhost:3002/users'; 
+const baseVideoURL = 'https://nestjs-8nvm.onrender.com/playlist'; 
+const baseUserURL = 'https://nestjs-8nvm.onrender.com/users'; 
 let token = localStorage.getItem('token');
 
 export const addVideo = (src, name) => {

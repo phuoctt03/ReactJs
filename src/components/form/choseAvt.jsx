@@ -127,7 +127,7 @@ const ChoseAvt = () => {
             className={`avatar-item ${selectedAvt === avatar ? 'selected' : ''}`}
             onClick={() => handleAvtClick(avatar)}
           >
-            <img src={avatar.avatarUrl} className="avatar-image" />
+            <img src={avatar.avatarUrl} alt="" className="avatar-image" />
           </div>
         ))}
         {avatarsUser.map((avatar) => (
@@ -136,7 +136,7 @@ const ChoseAvt = () => {
             className={`avatar-item ${selectedAvt === avatar ? 'selected' : ''}`}
             onClick={() => handleAvtClick(avatar)}
           >
-            <img src={avatar.avatarUrl} className="avatar-image" />
+            <img src={avatar.avatarUrl} alt="" className="avatar-image" />
           </div>
         ))}
       </div>

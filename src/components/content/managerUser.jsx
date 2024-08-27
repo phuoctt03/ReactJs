@@ -33,11 +33,7 @@ export const Users = () => {
         }
         setUser(response.data); 
       } catch (error) {
-        if (error.response && error.response.status === 401) {
-          localStorage.clear();
-        }
-        console.error('Error fetching users:', error);
-        window.location.replace('/signin');
+        alert('Lỗi kết nối đến server');
       }
     };
 

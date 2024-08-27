@@ -121,7 +121,7 @@ export const ContentSetting = () => {
                         )}
                         <div className="avatar-overlay">
                             <button onClick={handleAvatarChange} className="avatar-change-button">
-                                <img src="images/camera.png" alt="Change Avatar"></img>
+                                <img src="/images/camera.png" alt="Change Avatar"></img>
                             </button>
                         </div>
                     </div>

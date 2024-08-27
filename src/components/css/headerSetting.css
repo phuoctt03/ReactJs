@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    height: 50px;
+    width:100%;
+    padding: 5px 16px;
+    display: flex;
+    position:fixed;
+    top:0px;
+    background-color: white;
+    z-index: 5;
+}
+.background-logo-icon{
+    padding: 14px 14px 18px 16px;
+    cursor: pointer;
+}
+.logo-icon{
+    height: 20px;
+    width: 90px;
+}
+.functionSetting{
+    position: relative;
+    left: calc(100% - 300px);
+    display: flex;
+}
+.functionSetting div{
+    height: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    fill: currentcolor;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.functionSetting img{
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.functionSetting div:hover{
+    background-color: rgb(201, 201, 201);
+}

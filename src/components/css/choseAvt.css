@@ -1,0 +1,85 @@
+.avatar-selector {
+  text-align: center;
+  background-color: #d3d3d3;
+  z-index: 1;
+  position: relative;
+  margin: auto;
+  margin-top: 20px;
+  padding-top: 5px;
+  max-width: 640px;
+  border-radius: 10px;
+}
+
+.avatar-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.avatar-item {
+  margin: 10px;
+  cursor: pointer;
+  border: 2px solid transparent;
+  padding-top: 2px;
+  background-color: #ffffff;
+  height:60px;
+  width:60px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.upload-btn{
+  background-color: #00ff15;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.avatar-item.selected {
+  border-color: #00ff15;
+}
+
+.avatar-image {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.selected-avatar {
+  margin-top: 20px;
+}
+
+.avatar-image-large {
+  width: 120px;
+  height: 120px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}
+.savebtn{
+  background-color: #00ff15;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 20px 20px;
+  font-size: 16px;
+  cursor: pointer;
+
+}
+.savebtn:hover{
+  background-color: #00860b;
+}
+.deletebtn{
+  background-color: #ff0000;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 20px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.deletebtn:hover{
+  background-color: #8b0000;
+}

@@ -1,0 +1,95 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    height: 50px;
+    width:100%;
+    padding: 5px 16px;
+    display: flex;
+    position:fixed;
+    top:0px;
+    background-color: white;
+    z-index: 5;
+}
+.background-guide-button{
+    width: 50px; 
+    height: 50px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    fill: currentcolor;
+    cursor: pointer;
+}
+.background-guide-button svg{
+    height: 24px; 
+    width: 24px;
+}
+.background-guide-button:hover{
+    background-color: rgb(228, 228, 228);
+    border-radius: 50%;
+}
+.background-logo-icon{
+    padding: 14px 14px 18px 16px;
+    cursor: pointer;
+}
+.logo-icon{
+    height: 20px;
+    width: 90px;
+}
+.search-bar{
+    margin-left: 10%;
+    height: 50px;
+    width: 50%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    fill: currentcolor;
+}
+@media (max-width: 700px) {
+    .search-bar{
+        display: none;
+    }
+  }
+.search-bar input{
+    height: 40px;
+    width: 50%;
+    border: 1px solid gray;
+    padding-left: 20px;
+    border-radius: 50px 0px 0px 50px;
+    font-size: 18px;
+}
+.search-bar img{
+    border: 1px solid gray;
+    border-left: none;
+    background-color: rgb(241, 241, 241);
+    border-radius: 0px 50px 50px 0px;
+    cursor: pointer;
+}
+.search-bar img:hover{
+    background-color: rgb(175, 175, 175);
+}
+.function{
+    margin-left: 20%;
+    display: flex;
+}
+.function div{
+    height: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    fill: currentcolor;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.function img{
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+
+}
+.function div:hover{
+    background-color: rgb(201, 201, 201);
+}

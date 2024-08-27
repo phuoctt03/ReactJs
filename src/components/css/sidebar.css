@@ -1,0 +1,39 @@
+.side-bar{
+    top: 60px;
+    width:12%;
+    overflow-y: hidden;
+    max-height:calc(100vh - 60px);
+    position: fixed;
+    transition: overflow-y 0.3s ease;
+    scrollbar-width: thin;
+    padding:0 12px;
+}
+@media (max-width: 1400px) {
+    .side-bar{
+        display: none;
+    }
+  }
+.side-bar:hover{
+    overflow-y: auto;
+}
+.side-bar div{
+    padding:8px;
+}
+.side-bar .group{
+    border-bottom: 1px solid rgb(219, 219, 219);
+}
+.side-bar .group div{
+    display: inline-block;
+    border-radius: 20px;
+}
+.side-bar div img{
+    width:11%;
+    position: relative;
+    top:3px;
+}
+.side-bar .group .text{
+    padding-left: 20px;
+}
+.side-bar .group > div:hover{
+    background-color: rgb(126, 126, 126);
+}

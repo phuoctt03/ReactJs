@@ -1,0 +1,70 @@
+#edit-form-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 7;
+}
+  
+#edit-form {
+    display: none;
+    position: fixed;
+    width: 300px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    z-index: 8;
+    text-align: center;
+    right: calc(50% - 150px);
+    top: 25%;
+}
+  
+#edit-form h2 {
+    margin-top: 0;
+}
+  
+#edit-form form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+#edit-form label {
+    margin-bottom: 5px;
+}
+  
+#edit-form input[type="text"],
+#edit-form input[type="password"],
+#edit-form input[type="email"]{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+#edit-form select{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+#edit-form #submit {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+  
+#edit-form #submit:hover {
+    background-color: #45a049;
+}
+
+.edit-video.visible #edit-form{
+    display: block;
+}

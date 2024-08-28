@@ -6,7 +6,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/12/2024 08:27:10",
       "name": "インソムニア (INSOMNIA)",
-      "src": "https://www.youtube.com/embed/35nV_M3asRs?si=Vg9a4VRqcbVjdgUe",
+      "src": "https://www.youtube-nocookie.com/embed/35nV_M3asRs",
       "watched": "1150"
     },
     {
@@ -16,7 +16,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/11/2024 11:32:38",
       "name": "【推しの子】ノンクレジットオープニング",
-      "src": "https://www.youtube.com/embed/PgBvV9ofjmA?si=ljDKgYgeEkSMyHkT",
+      "src": "https://www.youtube-nocookie.com/embed/PgBvV9ofjmA",
       "watched": "340"
     },
     {
@@ -26,7 +26,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/12/2024 08:27:37",
       "name": "ZAQ「Dance In The Game」Lyric Video",
-      "src": "https://www.youtube.com/embed/uddBqgwGDHc?si=vgxNm0E76UQDNbWR",
+      "src": "https://www.youtube-nocookie.com/embed/uddBqgwGDHc",
       "watched": "3977"
     },
     {
@@ -36,7 +36,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/11/2024 11:33:09",
       "name": "【推しの子】第2期ノンクレジットエンディング",
-      "src": "https://www.youtube.com/embed/JuS4iuhG-vc?si=7L-uID1mvGTxxRWw",
+      "src": "https://www.youtube-nocookie.com/embed/JuS4iuhG-vc",
       "watched": "6772"
     },
     {
@@ -46,7 +46,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/12/2024 11:39:10",
       "name": "YOASOBI「怪物」",
-      "src": "https://www.youtube.com/embed/dy90tA3TT1c?si=hYRH_ogGcJ8Vdikb",
+      "src": "https://www.youtube-nocookie.com/embed/dy90tA3TT1c",
       "watched": "1238"
     },
     {
@@ -56,7 +56,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/12/2024 11:37:25",
       "name": "ファイトソング (Fight Song)",
-      "src": "https://www.youtube.com/embed/2eOg5DoYuwU?si=m-XqRFItJklfwKzv",
+      "src": "https://www.youtube-nocookie.com/embed/2eOg5DoYuwU",
       "watched": "1266"
     },
     {
@@ -66,7 +66,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/12/2024 11:38:48",
       "name": "ずっと真夜中でいいのに。『お勉強しといてよ』MV (ZUTOMAYO – STUDY ME)",
-      "src": "https://www.youtube.com/embed/Atvsg_zogxo?si=GQT6xDH0wMNZbe-_",
+      "src": "https://www.youtube-nocookie.com/embed/Atvsg_zogxo",
       "watched": "1166"
     },
     {
@@ -76,7 +76,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/18/2024 11:19:02",
       "name": "Persona ペルソナ Rainy Mood",
-      "src": "https://www.youtube.com/embed/NPqIEFG9Klo?si=LfDqeEsljGYGw0gH",
+      "src": "https://www.youtube-nocookie.com/embed/NPqIEFG9Klo",
       "watched": "242"
     },
     {
@@ -86,7 +86,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/11/2024 11:29:04",
       "name": "【推しの子】第2期ノンクレジットオープニング",
-      "src": "https://www.youtube.com/embed/PAcf55v6zqQ?si=k5bl8-5FUsOzaZog",
+      "src": "https://www.youtube-nocookie.com/embed/PAcf55v6zqQ",
       "watched": "1254"
     },
     {
@@ -96,7 +96,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/12/2024 10:42:43",
       "name": "虎狼来 (Kororon) - Eve Music Video",
-      "src": "https://www.youtube.com/embed/Gw96jPDtoDQ?si=g9GsIY64MHN8GqHP",
+      "src": "https://www.youtube-nocookie.com/embed/Gw96jPDtoDQ",
       "watched": "1254"
     },
     {
@@ -106,7 +106,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/12/2024 08:28:02",
       "name": "𝐄𝐯𝐞 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 | 당신같은 비트를 기다려왔다우 (MV 포함)",
-      "src": "https://www.youtube.com/embed/KZJk39gTVic?si=tI_GlA_W7Q1YFQJC",
+      "src": "https://www.youtube-nocookie.com/embed/KZJk39gTVic",
       "watched": "4113"
     },
     {
@@ -116,7 +116,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/12/2024 10:59:24",
       "name": "蒼のワルツ - Eve MV",
-      "src": "https://www.youtube.com/embed/pyDCubgU57g?si=4n975SN05Y3d8fnR",
+      "src": "https://www.youtube-nocookie.com/embed/pyDCubgU57g",
       "watched": "1223"
     },
     {
@@ -126,7 +126,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "07/12/2024 13:01:19",
       "name": "なとり - 絶対零度",
-      "src": "https://www.youtube.com/embed/LFoyXEFaz2Q?si=mzO1N0rc1wy4TrWe",
+      "src": "https://www.youtube-nocookie.com/embed/LFoyXEFaz2Q",
       "watched": "1322"
     },
     {
@@ -136,7 +136,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a010286b.2c1e488bd2b628f36c639c51d3b9e6f825c390eff317ce39ef053c1d9b183a90.gif",
       "date": "07/24/2024 14:46:21",
       "name": "【Ado】ブリキノダンス 歌いました",
-      "src": "https://www.youtube.com/embed/iL7uoLCbJoc?si=jxtQ6LLgx6AONMPr",
+      "src": "https://www.youtube-nocookie.com/embed/iL7uoLCbJoc",
       "watched": "394"
     },
     {
@@ -146,7 +146,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.7acd32b3e8b9be7d7ec141e8417bcf5d5eee50052a7d2f4e7ff2c36dae6c9dd1.gif",
       "date": "08/02/2024 15:57:49",
       "name": "𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁 | 요즘 MZ 애니는 팝송 가수가 오프닝을 부른다고? : 최신 애니 OST 모음",
-      "src": "https://www.youtube.com/embed/MPp63nm2r0c?si=w35BdDHD8ituq1O1",
+      "src": "https://www.youtube-nocookie.com/embed/MPp63nm2r0c",
       "watched": "122"
     },
     {
@@ -156,7 +156,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.7acd32b3e8b9be7d7ec141e8417bcf5d5eee50052a7d2f4e7ff2c36dae6c9dd1.gif",
       "date": "08/02/2024 15:58:12",
       "name": "𝕡𝕝𝕒𝕪𝕝𝕚𝕤𝕥 | 내가 좋아하는 노래만 골라 넣은 애니 플레이리스트",
-      "src": "https://www.youtube.com/embed/0VB1_OJZD6g?si=M76EaCQQHcFRyWBy",
+      "src": "https://www.youtube-nocookie.com/embed/0VB1_OJZD6g",
       "watched": "121"
     },
     {
@@ -166,7 +166,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.7acd32b3e8b9be7d7ec141e8417bcf5d5eee50052a7d2f4e7ff2c36dae6c9dd1.gif",
       "date": "08/02/2024 15:58:30",
       "name": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 띵곡들만 모아놓은 애니ost모음",
-      "src": "https://www.youtube.com/embed/lSUiDSz_2aE?si=uMP6b3CY9CuHhuwF",
+      "src": "https://www.youtube-nocookie.com/embed/lSUiDSz_2aE",
       "watched": "124"
     },
     {
@@ -176,7 +176,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.2a13cea725c2246893ef5df2d5b661246c2efd1e6fdbb684a3169f2252bc3a16.gif",
       "date": "08/06/2024 15:07:40",
       "name": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 | 봇치 더 록! | 결속밴드 풀버전 MV 전곡 듣기 [CC자막]",
-      "src": "https://www.youtube.com/embed/4uxe2Tpvnhc?si=VJ7a0n1mDhjN3tXp",
+      "src": "https://www.youtube-nocookie.com/embed/4uxe2Tpvnhc",
       "watched": "156"
     },
     {
@@ -186,7 +186,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.25a49b0c57e64ddd75cc9d762d83ad5e7bdada3258b1f93c6602db87813913d2.gif",
       "date": "08/06/2024 15:12:10",
       "name": "【Ado】Backlight / 逆光（UTA from ONE PIECE FILM RED）",
-      "src": "https://www.youtube.com/embed/gt-v_YCkaMY?si=SfnoCcE2KKDVIkGa",
+      "src": "https://www.youtube-nocookie.com/embed/gt-v_YCkaMY",
       "watched": "128"
     },
     {
@@ -196,7 +196,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.7e710419ec4bf9a91dbb0cdd4855140b04ee5793c831a4519a9b1e7a509f6f55.gif",
       "date": "08/06/2024 15:16:34",
       "name": "Tower of God Season 2 - Opening",
-      "src": "https://www.youtube.com/embed/-3AWG8p7uQ8?si=dWSKIJisMqFpF_S0",
+      "src": "https://www.youtube-nocookie.com/embed/-3AWG8p7uQ8",
       "watched": "1132"
     },
     {
@@ -206,7 +206,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.e4882918dab32687f6d84a1386d4d3b289a98cc57c0e61f477e87ec604a6a46f.gif",
       "date": "08/06/2024 15:18:36",
       "name": "Tower of God Season 2 - Ending FULL \"BELIEVE\" by NiziU (Lyrics)",
-      "src": "https://www.youtube.com/embed/-xLQMeOQXto?si=bR8XJS1_Tis6ln34",
+      "src": "https://www.youtube-nocookie.com/embed/-xLQMeOQXto",
       "watched": "1145"
     },
     {
@@ -216,7 +216,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.0376ce8417d269b5bad5d15acbbf3a3488eeabeb2e061f8ca1dec4fd2aaafdf1.gif",
       "date": "08/06/2024 15:25:39",
       "name": "【OP OSHI NO KO SEASON 2】-ファタール - Fatal GEMN",
-      "src": "https://www.youtube.com/embed/8SlIOoHJNjI?si=K3yPPXbm17akEBDE",
+      "src": "https://www.youtube-nocookie.com/embed/8SlIOoHJNjI",
       "watched": "110"
     },
     {
@@ -226,7 +226,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.32ebfbf3fbb0815ed107159f54c30e3f81fb06e8938ecde829d706c3fd68b2e5.gif",
       "date": "08/06/2024 15:27:53",
       "name": "Dramaturgy - Eve MV",
-      "src": "https://www.youtube.com/embed/jJzw1h5CR-I?si=kIJyqyUjg1OysZdn",
+      "src": "https://www.youtube-nocookie.com/embed/jJzw1h5CR-I",
       "watched": "731"
     },
     {
@@ -236,7 +236,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.8c2a73de2a2b3781fe52e40255ecedb0a62be8b3cf328605a8574a388bd1b08f.gif",
       "date": "08/06/2024 15:29:04",
       "name": "ずっと真夜中でいいのに。『お勉強しといてよ』MV (ZUTOMAYO – STUDY ME)",
-      "src": "https://www.youtube.com/embed/Atvsg_zogxo?si=RCIvKZi4EU8BjpiM",
+      "src": "https://www.youtube-nocookie.com/embed/Atvsg_zogxo",
       "watched": "1645"
     },
     {
@@ -246,7 +246,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.089eb00b72b96885b9c70a8d99241ddae7eed81fb8756ea83375aa70c791bac4.gif",
       "date": "08/06/2024 15:30:15",
       "name": "【MV】Intergalactic Bound by Yunosuke & CircusP feat. Hatsune Miku",
-      "src": "https://www.youtube.com/embed/jsQXgDZIIrY?si=nAYFYz90sn-4-pqF",
+      "src": "https://www.youtube-nocookie.com/embed/jsQXgDZIIrY",
       "watched": "1618"
     },
     {
@@ -256,7 +256,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.b043921b41a947c6a61000441f3de49f3e0ab9512464acf30dd2149e75857322.gif",
       "date": "08/06/2024 15:31:29",
       "name": "Tower of God Season 2 - Opening FULL \"RISE UP\" by NiziU (Lyrics)",
-      "src": "https://www.youtube.com/embed/-lOqayZyFR4?si=moFSR2TAtKricw5Z",
+      "src": "https://www.youtube-nocookie.com/embed/-lOqayZyFR4",
       "watched": "18243"
     },
     {
@@ -266,7 +266,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.86ba3b8ab5d46115b3cd0f697c66883fc0060dbfe7acd8a165bc11ecf3cc0b92.gif",
       "date": "08/06/2024 15:32:41",
       "name": "【荒木哲郎× SawanoHiroyuki[nZk]",
-      "src": "https://www.youtube.com/embed/yYAgBRO-aT8?si=-Ud8wphlP2fY_ZLz",
+      "src": "https://www.youtube-nocookie.com/embed/yYAgBRO-aT8",
       "watched": "1828"
     },
     {
@@ -276,7 +276,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.61717fed364785615aa34f9036e436b89e83704acae2293e15e487f252d362b8.gif",
       "date": "08/06/2024 15:34:12",
       "name": "\"Waiting for Rain\" - 美波 (Minami) MV",
-      "src": "https://www.youtube.com/embed/766qmHTc2ro?si=0EiZBj1PISpUdJgc",
+      "src": "https://www.youtube-nocookie.com/embed/766qmHTc2ro",
       "watched": "4805"
     },
     {
@@ -286,7 +286,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.ce2874ebd3147e890708ae439e23b030fafc9fc310931c22f1bcaf271f4738f3.gif",
       "date": "08/06/2024 15:41:01",
       "name": "RADWIMPS - Suzume feat. Toaka [Official Lyric Video]",
-      "src": "https://www.youtube.com/embed/Xs0Lxif1u9E?si=6sR1ePpPDqR5NMK3",
+      "src": "https://www.youtube-nocookie.com/embed/Xs0Lxif1u9E",
       "watched": "2319"
     },
     {
@@ -296,7 +296,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.5fb3ff4ba35ab8ec51a89d51d488ccdc7271ec5789f93a822cbac881d4237152.gif",
       "date": "08/15/2024 08:56:18",
       "name": "DAOKO × 米津玄師『打上花火』MUSIC VIDEO",
-      "src": "https://www.youtube.com/embed/-tKVN2mAKRI?si=BpE78k1NpNVzQ8UX",
+      "src": "https://www.youtube-nocookie.com/embed/-tKVN2mAKRI",
       "watched": "120"
     },
     {
@@ -306,7 +306,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.61717fed364785615aa34f9036e436b89e83704acae2293e15e487f252d362b8.gif",
       "date": "08/19/2024 11:07:42",
       "name": "An Anthem To Your Eternity",
-      "src": "https://www.youtube.com/embed/dBju20BQguw?si=0ylb9l_wHfOii_2h",
+      "src": "https://www.youtube-nocookie.com/embed/dBju20BQguw",
       "watched": "31"
     },
     {
@@ -316,7 +316,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.ce2874ebd3147e890708ae439e23b030fafc9fc310931c22f1bcaf271f4738f3.gif",
       "date": "08/19/2024 11:09:03",
       "name": "呪術廻戦 主題歌メドレー",
-      "src": "https://www.youtube.com/embed/76cmxnigxW8?si=1L0fwPq-ZRNZqcfX",
+      "src": "https://www.youtube-nocookie.com/embed/76cmxnigxW8",
       "watched": "37"
     },
     {
@@ -326,7 +326,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.8c2a73de2a2b3781fe52e40255ecedb0a62be8b3cf328605a8574a388bd1b08f.gif",
       "date": "08/19/2024 11:11:12",
       "name": "𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁 | 찬란하고도 슬픈 청춘 애니 OST/J-POP 모음",
-      "src": "https://www.youtube.com/embed/B-IEJvfuqq0?si=BHxkc5-bQLecTBoP",
+      "src": "https://www.youtube-nocookie.com/embed/B-IEJvfuqq0",
       "watched": "45"
     },
     {
@@ -336,7 +336,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.ce2874ebd3147e890708ae439e23b030fafc9fc310931c22f1bcaf271f4738f3.gif",
       "date": "08/23/2024 13:18:56",
       "name": "YOASOBI「舞台に立って」Official Music Video",
-      "src": "https://www.youtube.com/embed/GWDzKel_vuQ?si=Ept1C74CJWioaDc5",
+      "src": "https://www.youtube-nocookie.com/embed/GWDzKel_vuQ",
       "watched": "75"
     },
     {
@@ -346,7 +346,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.32ebfbf3fbb0815ed107159f54c30e3f81fb06e8938ecde829d706c3fd68b2e5.gif",
       "date": "08/23/2024 13:23:15",
       "name": "【Ado】ルル (RuLe)",
-      "src": "https://www.youtube.com/embed/0Z_YqhYHhpg?si=igiF1J0kxWoXfT65",
+      "src": "https://www.youtube-nocookie.com/embed/0Z_YqhYHhpg",
       "watched": "43"
     },
     {
@@ -356,7 +356,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.8c2a73de2a2b3781fe52e40255ecedb0a62be8b3cf328605a8574a388bd1b08f.gif",
       "date": "08/23/2024 14:33:21",
       "name": "【Ado】うっせぇわ",
-      "src": "https://www.youtube.com/embed/Qp3b-RXtz4w?si=cK2vwnWJ_AxuYUt8",
+      "src": "https://www.youtube-nocookie.com/embed/Qp3b-RXtz4w",
       "watched": "30"
     },
     {
@@ -366,7 +366,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.86ba3b8ab5d46115b3cd0f697c66883fc0060dbfe7acd8a165bc11ecf3cc0b92.gif",
       "date": "08/23/2024 14:53:42",
       "name": "【Ado】MIRROR",
-      "src": "https://www.youtube.com/embed/zsBBWBEZkFQ?si=WU_l9JD2ICo22-k8",
+      "src": "https://www.youtube-nocookie.com/embed/zsBBWBEZkFQ",
       "watched": "69"
     },
     {
@@ -376,7 +376,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.7acd32b3e8b9be7d7ec141e8417bcf5d5eee50052a7d2f4e7ff2c36dae6c9dd1.gif",
       "date": "08/23/2024 15:54:51",
       "name": "「千本桜」ver. Ado (Limited Special Track)",
-      "src": "https://www.youtube.com/embed/3tPBEjxqEc4?si=c_AnpAqVAS7VUUqw",
+      "src": "https://www.youtube-nocookie.com/embed/3tPBEjxqEc4",
       "watched": "66"
     },
     {
@@ -386,7 +386,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.089eb00b72b96885b9c70a8d99241ddae7eed81fb8756ea83375aa70c791bac4.gif",
       "date": "08/23/2024 15:58:23",
       "name": "yama - 春を告げる (Official Video)",
-      "src": "https://www.youtube.com/embed/DC6JppqHkaM?si=iI3qi0uQyJ3cqZXw",
+      "src": "https://www.youtube-nocookie.com/embed/DC6JppqHkaM",
       "watched": "69"
     },
     {
@@ -396,7 +396,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.7e710419ec4bf9a91dbb0cdd4855140b04ee5793c831a4519a9b1e7a509f6f55.gif",
       "date": "08/23/2024 17:08:33",
       "name": "natori - Overdose ",
-      "src": "https://www.youtube.com/embed/H08YWE4CIFQ?si=R5agUyQ6v-iEdeRW",
+      "src": "https://www.youtube-nocookie.com/embed/H08YWE4CIFQ",
       "watched": "162"
     },
     {
@@ -406,7 +406,7 @@
       "avtUser": "https://nestjs-8nvm.onrender.com/avt/66b1e3483b2f0765a0102867.2a13cea725c2246893ef5df2d5b661246c2efd1e6fdbb684a3169f2252bc3a16.gif",
       "date": "08/23/2024 17:20:02",
       "name": "【AMV】我推的孩子 第二季 OP Full-「ファタール」〈Fatal〉／GEMN｜中日字幕",
-      "src": "https://www.youtube.com/embed/gENHJE0ja34?si=fG98XC-SEV30LPqd",
+      "src": "https://www.youtube-nocookie.com/embed/gENHJE0ja34",
       "watched": "65"
     }
   ]

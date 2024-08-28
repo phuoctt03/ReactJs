@@ -19,7 +19,7 @@ export const Users = () => {
             Authorization: `Bearer ${token}`,
           },
         };
-        let response = await axios.get('https://nestjs-8nvm.onrender.com/users/', options);
+        let response = await axios.get('https://nestjs-xkl8.onrender.com/users/', options);
         if (response.data[0].UserID === undefined) {
           response.data = response.data.map((user) => {
             return {

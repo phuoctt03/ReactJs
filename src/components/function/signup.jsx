@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseURL = 'https://nestjs-8nvm.onrender.com/users';
+const baseURL = 'https://nestjs-xkl8.onrender.com/users';
 
 export const signUp = async (username, password, email, role) => {
   try {

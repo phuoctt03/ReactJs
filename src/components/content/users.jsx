@@ -22,7 +22,7 @@ export const Playlist = ({keySearch}) => {
 
   const handleVideoClick = async (id) => {
     try {
-        await axios.post(`https://nestjs-8nvm.onrender.com/playlist/${id}/views`);
+        await axios.post(`https://nestjs-xkl8.onrender.com/playlist/${id}/views`);
     } catch (error) {
       console.error('Error updating views:', error);
     }
@@ -31,7 +31,7 @@ export const Playlist = ({keySearch}) => {
   useEffect(() => {
     const updatePlaylist = async () => {
       try {
-        let response = await axios.get('https://nestjs-8nvm.onrender.com/playlist/');
+        let response = await axios.get('https://nestjs-xkl8.onrender.com/playlist/');
         const sortedPlaylist = response.data.sort((a, b) => new Date(b.date) - new Date(a.date));
   
         const filteredPlaylist = keySearch

@@ -12,10 +12,10 @@ export const addVideo = (src, name) => {
     let minute = String(today.getMinutes()).padStart(2, '0');
     let second = String(today.getSeconds()).padStart(2, '0');
     today = `${mm}/${dd}/${yyyy} ${hour}:${minute}:${second}`;
-
+    let srcVideo = "https://www.youtube-nocookie.com/embed/"+src;
     const newVideo = {
         avtUser: localStorage.getItem('avtUser'),
-        src: src,
+        src: srcVideo,
         name: name,
         author: localStorage.getItem('username'),
         watched: '0',
